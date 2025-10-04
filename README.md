@@ -37,7 +37,7 @@ Inspired by FreeBSD's [platform targets](https://docs.freebsd.org/en/articles/co
 
 1. Tier 1 (riscv64): Main target on WSD. Development is mainly focused on these platforms. All bugs should be fixed. Tests should be provided for these platforms.
 
-2. Tier 2 (amd64, aarch64): Experimental target on WSD. Usually development isn't focused on these platforms, but developers should consider future implementation on them. All bugs should be fixed. Tests should be provided for these platforms.
+2. Tier 2 (amd64, arm64): Experimental target on WSD. Usually development isn't focused on these platforms, but developers should consider future implementation on them. All bugs should be fixed. Tests should be provided for these platforms.
 
 3. Tier 3 (powerpc64): No support. Issues on these platforms does not hinder development process. Bug fixes is not prioritized and no tests are provided.
 
